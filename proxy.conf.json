@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "https://connect.paj-gps.de",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
